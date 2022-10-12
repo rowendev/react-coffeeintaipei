@@ -63,7 +63,7 @@ function Taipei() {
             />
           </g>
           <g>
-            <text x="140" y="300" style={{ fontSize: "14px" }}>
+            <text x="140" y="290" style={{ fontSize: "14px" }}>
               中山區
             </text>
             <path
@@ -115,7 +115,7 @@ function Taipei() {
             />
           </g>
           <g>
-            <text x="150" y="400" style={{ fontSize: "14px" }}>
+            <text x="148" y="400" style={{ fontSize: "14px" }}>
               大安區
             </text>
             <path
@@ -141,7 +141,7 @@ function Taipei() {
             />
           </g>
           <g>
-            <text x="180" y="350" style={{ fontSize: "14px" }}>
+            <text x="180" y="340" style={{ fontSize: "14px" }}>
               松山區
             </text>
             <path
