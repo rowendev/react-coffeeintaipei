@@ -74,14 +74,15 @@ text {
        
     }
     .taipei {
-        height: 100vh;
+        height: 80vh;
         margin: 0 5rem;
     }
 }
 @media screen and (max-width:450px) {
     .taipei {
-        height: 100vh;
+        height: 90vh;
         margin: 0;
+        overflow-x: hidden;
     }
 }
 
