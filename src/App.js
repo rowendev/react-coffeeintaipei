@@ -8,7 +8,6 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <NavBar />
         <Routes>
           <Route path="/" element={<Taipei />} />
         </Routes>
